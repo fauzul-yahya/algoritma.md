@@ -1,0 +1,39 @@
+body {
+    background: #3498db;
+    font-family: sans-serif;
+  }
+   
+  h2 {
+    color: #fff;
+  }
+   
+  .login {
+    padding: 20px;
+    margin: 20px auto;
+    width: 320px;
+    background: #fff;
+    border-radius: 3px;
+  }
+   
+  label {
+    font-size: 17px;
+    color: #555;
+  }
+   
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    padding: 8px;
+    width: 80%;
+    background: #efefef;
+    border: 0;
+    font-size: 17px;
+    margin: 8px 0px;
+  }
+   
+  .tombol {
+    background: #3498db;
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+  }
