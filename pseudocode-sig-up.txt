@@ -5,13 +5,13 @@ var nama lengkap, email, alamat;
 
 implementasi:
 
-masukan nama lengkap
+input nama lengkap
 pastikan nama lengkap tidak boleh kosong
 
-masukan email
+input email
 pastikan email tidak boleh kosong dan format harus ada("@",".")
 
-masukan alamat
-pastikan alamat tidak boleh kosong dan tidak lebih sama dengan 20 kata
+input alamat
+pastikan alamat tidak boleh kosong dan tidak lebih sama dengan  kata
 
 setelah nama lengkap, 
