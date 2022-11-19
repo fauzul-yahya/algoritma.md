@@ -1,17 +1,27 @@
-Program sig-up-ke-froom
+1.mulai
 
-deskripsi
-var nama lengkap, email, alamat;
+2.masukkan nomor pendaftaran
 
-implementasi:
+3.masukan nama lengkap
 
-input nama lengkap
-pastikan nama lengkap tidak boleh kosong
+4.masukan email
 
-input email
-pastikan email tidak boleh kosong dan format harus ada("@",".")
+5.masukan alamat
 
-input alamat
-pastikan alamat tidak boleh kosong dan tidak lebih sama dengan  kata
+6.setelah nama lengkap , email ,dan alamat terisi klik tombol daftar
 
-setelah nama lengkap, 
+7.validasi nama lengkap tidak boleh kosong dan kurang dari sama dengan 25 karakter
+
+8.validasi email tidak boleh kosong dan format harus ada("@",".")
+
+9.validasi alamat tidak boleh kosong dan kurang dari sama dengan 100 karakter
+
+10.apabila nama lengkap , email , dan alamat salah , maka tampilkan informasi eror
+
+11.apabila nama lengkap , email , dan alamat benar maka tampilkan informasi sukses
+
+12.jika nomor urut pndaftaran kurang dari 25 maka cetak data dengan nomor urut ganjil
+
+13.jika nomor urut lebih besar dari 25 dan dan kurang dari = 50 maka cetak nomor urut dengan bilangan genap
+
+14.selesai
